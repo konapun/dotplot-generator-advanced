@@ -12,7 +12,7 @@ as a text file or given as an array.
 ## Generator Program
 Builds a configurable dotplot
 
-Usage: `genplot [OPTIONS] <sequence1> <sequence2> <output_file>
+Usage: `genplot [OPTIONS] <sequence1> <sequence2> <output_file>`
 ### Options
   * **x** file to use as the first score filter for sequence1
   * **y** file to use as the first score filter for sequence2
